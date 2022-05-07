@@ -1,6 +1,6 @@
 # Hand Haptics [![Downloads](https://img.shields.io/github/downloads/PetIris/HandHaptics/total?color=magenta&label=Downloads:)](https://github.com/PetIris/HandHaptics/releases)
 
-HandHaptics is a mod to make your controller(s) vibrate on hand to hand interaction.
+HandH aptics is a mod to make your controller(s) vibrate on hand to hand interaction.
 
 Requires [PlagueButtonAPI](https://github.com/PlagueVRC/PlagueButtonAPI)
 
