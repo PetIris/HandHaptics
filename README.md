@@ -18,4 +18,4 @@ Step 3. Download PlagueButtonAPI.dll from [Plague](https://github.com/PlagueVRC)
 
 # Screenshot
 
-![image](https://user-images.githubusercontent.com/83179966/167032790-1ee3c58f-986d-43da-a125-e0772d8a100a.png)
+![Capture](https://user-images.githubusercontent.com/83179966/167259441-49f329ca-5c5f-4fea-8d49-027a3fc7e900.PNG)
